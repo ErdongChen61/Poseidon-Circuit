@@ -1543,9 +1543,9 @@ dependencies = [
 
 [[package]]
 name = "snarkify-sdk"
-version = "0.1.0-alpha.7"
+version = "0.1.0-alpha.8"
 source = "registry+https://github.com/rust-lang/crates.io-index"
-checksum = "893565908cf2a60b6df65a74eaae430bb479255c15d576727c0c521fd988efd9"
+checksum = "ff0cd1e7be7f259cf8203735e3a3574f02dbddc28679f44492fc20c909620fea"
 dependencies = [
  "actix-http",
  "actix-rt",
